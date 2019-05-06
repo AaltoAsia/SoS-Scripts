@@ -7,7 +7,7 @@ r = requests.post("http://localhost:8080", data =
    <msg>
      <Objects xmlns="http://www.opengroup.org/xsd/odf/1.0/">
        <Object>
-         <id>MAC-Computer</id>
+         <id>MAC-Computer</id>		<!-- Change the id name to some unique name (your laptop name) -->
          <InfoItem name="CPU-Temperature">
            <value>""" + input().replace('°C','') + """</value>
          </InfoItem>
