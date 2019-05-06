@@ -1,6 +1,6 @@
-# SoS-Scripts
-
-Tutorial to get familiar with connnecting sensors to O-MI Node the simple way, and introducting subscriptions. Open sos-tutorial.pdf slideshow for further instructions.
+SoS-Scripts
+=======
+Tutorial to get familiar with connnecting sensors to O-MI Node the simple way, and introducting subscriptions. Open `sos-tutorial.pdf` slideshow for further instructions.
 
 
 ## Programs for ESP8266
