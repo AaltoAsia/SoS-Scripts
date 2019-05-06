@@ -7,7 +7,7 @@ r = requests.post("http://localhost:8080", data =
     <msg>
       <Objects xmlns="http://www.opengroup.org/xsd/odf/1.0/">
         <Object>
-          <id>Linux-Computer</id>   # Change id to some unique name (your laptop name) 
+          <id>Linux-Computer</id>
           <InfoItem name="CPUTemperature">
             <value>""" + input() + """</value>
           </InfoItem>
