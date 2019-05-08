@@ -1,6 +1,6 @@
 
 //#define OMI_URL "https://biotope.cs.hut.fi/omi/node/"
-#define OMI_URL "http://192.168.1.152:8080/"
+#define OMI_URL "http://localhost:8080/"    // Write O-MI node ip address
 
 const char writeTemplate[] = 
 "<omiEnvelope xmlns=\"http://www.opengroup.org/xsd/omi/1.0/\" version=\"1.0\" ttl=\"20\">"
